@@ -1,0 +1,56 @@
+
+Name of the flow: Christmas list
+Title Step
+Title: Chrsitmas presents
+Subtitle: for family
+
+Text Step
+Title: for kids
+Copy: many kids
+
+Text Input Step
+Description: introduce presents
+
+Number Input Step
+Description: introduce number of kids
+
+Calculus Step
+Operation: Addition
+
+Text File Step
+Description: test
+
+Display Step
+Ready to read files
+
+End Step
+End of the process!
+
+
+
+Name of the flow: Christmas list
+Title Step
+Title: Chrsitmas presents
+Subtitle: for family
+
+Text Step
+Title: for kids
+Copy: many kids
+
+Text Input Step
+Description: introduce presents
+Text Input: cars
+
+Number Input Step
+Description: Description: introduce number of kids
+Number Input: 3.200000
+
+Calculus Step
+Steps: 1
+Operation: Addition
+Result: 4.200000
+
+End Step
+End of the process!
+
+

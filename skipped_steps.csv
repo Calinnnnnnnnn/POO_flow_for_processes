@@ -1,0 +1,10 @@
+TitleStep,0
+TextStep,0
+TextInputStep,0
+NumberInputStep,1
+CalculusStep,0
+TextFileStep,1
+CSVFileStep,2
+DisplayStep,1
+OutputStep,1
+EndStep,0
